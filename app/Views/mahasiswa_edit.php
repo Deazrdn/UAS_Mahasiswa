@@ -12,7 +12,7 @@
       <div class="col-lg-12">
 
         <div class="card">
-          <div class="card-body bg-secondary">
+          <div class="card-body">
             <h5 class="card-title">Edit Data mahasiswa</h5>
 
             <form class="form-horizontal" action="<?= base_url('mahasiswa/pro_edit') ?>" method="POST" enctype="multipart/form-data">

@@ -18,18 +18,14 @@
               <i class="bi bi-plus"></i> Add </a></p>
               <table id="example" class="display" style="width:100%;">
         <thead>
-            <tr>
-                <th>nim</th>
-                <th>no_ktp</th>
-                <th>nama_lengkap</th>
-                <th>tempat_lahir</th>
-                <th>tgl_lahir</th>
-                <th>jenis_kelamin</th>
-                <th>prodi</th>
-                <th>provinsi</th>
-                <th>Agama</th>
-                <th>alamat_lengkap</th>
-                <th>tgl_masuk</th>
+          <tr>
+        <th>No</th>
+                <th>NIM</th>
+                <th>No. KTP</th>
+                <th>Nama</th>
+                <th>Provinsi</th>
+                <th>Prodi</th>
+                <th>Option</th>
             </tr>
         </thead>
         <tbody></tbody>        
